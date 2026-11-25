@@ -2,23 +2,11 @@
 
 *A PostgreSQL-Based Database for Multi-Branch Circulation, Resource Tracking and Fine Recovery*
 
-### Project Information
-- **Institution:** IILM University, Greater Noida
-- **Programme:** MBA – Second Year
-- **Specialisation:** Business Analytics
-- **Subject:** SQL and Data Management
-- **Subject Code:** PMDE30605
-- **Project Type:** Final Group Project
-
-### Submitted To
-Dr. Lalit Kumar  
-Associate Professor – Business Analytics
-
-### Submitted By
+### Created By
 - Aditi
 - Anshika Tiwari
 - Kavya Gupta
-- Hrithik Vishwakarma
+- Ritik Vishwakarma
 
 ### Project Overview
 This project develops a relational database management system for a multi-branch library using PostgreSQL. It focuses on managing library resources, book circulation, overdue loans, lost and unavailable book copies, and unrecovered fines.
@@ -32,4 +20,3 @@ This project develops a relational database management system for a multi-branch
 
 ### Technology Used
 - PostgreSQL
-- SQL
